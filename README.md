@@ -12,7 +12,7 @@ This repository contains lib for infer SAN model. **WARNING!!! this lib dosent w
 4. download [weights](https://drive.google.com/file/d/1rEQuGkAPFnnVscofZDmfQkRXWOcr_HEW/view?usp=sharing) or convert from checkpoint by using this [notebook](https://github.com/PososikTeam/SAN_lib/tree/main/create_state_dict)
 5. cut weights into minimal lib for create SAN model, weights name file must be san.pth
 6. now you can use this lib with following directory structur:
-
+.
 ├── lib
 │   .
 │   └── san.pth
