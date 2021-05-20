@@ -18,6 +18,7 @@ This repository contains lib for infer SAN model. **WARNING!!! this lib dosent w
 │   └── san.pth
 ├── code.py
 ```
+where code.py is the place there you want to use this infer lib.
 
 ![Image of Yaktocat](https://github.com/PososikTeam/SAN_lib/blob/main/images/input.png)
 ![Image of Yaktocat](https://github.com/PososikTeam/SAN_lib/blob/main/images/output.png)
