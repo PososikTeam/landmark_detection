@@ -8,4 +8,4 @@ Infer lib for SAN model
 
 
 ## Testing
-![Image of Yaktocat](https://github.com/PososikTeam/SAN_lib/blob/main/images/test.png)
+![Image of Yaktocat](https://github.com/PososikTeam/SAN_lib/blob/main/images/tests.png)
