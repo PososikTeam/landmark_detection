@@ -38,9 +38,10 @@ def main():
 if '__name__' == 'main':
     main()
 ```
-```answ_dict['landmarks']``` contains x, y coordinates point and it probability, so shape = (num_points, 3) 
-```answ_dict['error_message']``` contains error message
+```answ_dict['landmarks']``` contains x, y coordinates point and it probability, so shape = (num_points, 3),
+```answ_dict['error_message']``` contains error message.
 
+Class LandmarkDetector contains **path** as input parameter, this path is weights directory path, so you can add weights file in any place with add this place directory as input for LandmarkDetector class. Also that class have **num_points** parameter- counts of model nedd to detect point.
 ```python
 class LandmarkDetector():
     def __init__(self, num_points = 68, path = None):
