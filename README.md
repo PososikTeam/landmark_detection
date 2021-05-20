@@ -3,5 +3,5 @@ Infer lib for SAN model
 
 
 
-![Image of Yaktocat](https://github.com/PososikTeam/minimal_lib_for_san_model/blob/main/images/input.png)
-![Image of Yaktocat](https://github.com/PososikTeam/minimal_lib_for_san_model/blob/main/images/output.png)
+![Image of Yaktocat](https://github.com/PososikTeam/SAN_lib/blob/main/images/input.png)
+![Image of Yaktocat](https://github.com/PososikTeam/SAN_lib/blob/main/images/output.png)
