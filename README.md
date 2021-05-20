@@ -38,6 +38,14 @@ def main():
 if '__name__' == 'main':
     main()
 ```
+answ_dict['landmarks'] contains x, y coordinates point and it probability, so shape = (num_points, 3) 
+answ_dict['error_message'] contains error message
+
+```python
+class LandmarkDetector():
+    def __init__(self, num_points = 68, path = None):
+```
+
 
 ## Evaluetion example
 ![Image of Yaktocat](https://github.com/PososikTeam/SAN_lib/blob/main/images/input.png)
