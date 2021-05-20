@@ -14,7 +14,7 @@ This repository contains lib for infer SAN model. **WARNING!!! this lib dosent w
 6. now you can use this lib with following directory structur:
 
 ├── lib
-│   ...
+│   .
 │   └── san.pth
 ├── code.py
 
